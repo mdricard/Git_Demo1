@@ -5,4 +5,4 @@ print("bye bye")
 for i in range(20):
     print('Trump will look great in an orange jumpsuit, be sure to shave his head')
 for i in range(3):
-    print("Frank Burns eats worms!")
+    print("Frank Burns eats earth worms!")
